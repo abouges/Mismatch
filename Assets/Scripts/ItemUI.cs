@@ -9,10 +9,12 @@ public class ItemUI : MonoBehaviour
     public GameObject Item1;
     public GameObject Item2;
     public GameObject Item3;
+    private AudioSource KeyAudio;
 
     void Start()
     {
         instance = this;
+        KeyAudio = gameObject.GetComponent<AudioSource>();
     }
     // Update is called once per frame
     void Update()
@@ -25,6 +27,7 @@ public class ItemUI : MonoBehaviour
         Item1.SetActive(true);
         Item2.SetActive(false);
         Item3.SetActive(false);
+        KeyAudio.Play();
     }
 
     public void ItemTwo()
@@ -32,6 +35,7 @@ public class ItemUI : MonoBehaviour
         Item1.SetActive(false);
         Item2.SetActive(true);
         Item3.SetActive(false);
+        KeyAudio.Play();
     }
 
     public void ItemThree()
@@ -39,5 +43,6 @@ public class ItemUI : MonoBehaviour
         Item1.SetActive(false);
         Item2.SetActive(false);
         Item3.SetActive(true);
+        KeyAudio.Play();
     }
 }
