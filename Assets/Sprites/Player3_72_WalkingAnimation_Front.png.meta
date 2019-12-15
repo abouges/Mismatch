@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 870f3d95612afb340a213f0a255a1865
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7290494575426718411
+    second: Player3_72_WalkingAnimation_Front_0
+  - first:
+      213: 1176094455921942506
+    second: Player3_72_WalkingAnimation_Front_1
+  - first:
+      213: -5506523859623040947
+    second: Player3_72_WalkingAnimation_Front_2
+  - first:
+      213: 8100672543793052652
+    second: Player3_72_WalkingAnimation_Front_3
+  - first:
+      213: -6398750531586922213
+    second: Player3_72_WalkingAnimation_Front_4
+  - first:
+      213: -1647726469976306563
+    second: Player3_72_WalkingAnimation_Front_5
+  - first:
+      213: -3976581099362281641
+    second: Player3_72_WalkingAnimation_Front_6
+  - first:
+      213: 682598960423211296
+    second: Player3_72_WalkingAnimation_Front_7
+  - first:
+      213: -7483255957620197831
+    second: Player3_72_WalkingAnimation_Front_8
+  - first:
+      213: -4532299355518538894
+    second: Player3_72_WalkingAnimation_Front_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player3_72_WalkingAnimation_Front_0
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 6973
+        width: 1165
+        height: 2182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e2b212b85b2cf49b15f928e4b5aa86
+      internalID: -7290494575426718411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player3_72_WalkingAnimation_Front_1
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 6973
+        width: 1165
+        height: 2182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f9d0eb13ab8ab42bbde44919e76150
+      internalID: 1176094455921942506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player3_72_WalkingAnimation_Front_2
+      rect:
+        serializedVersion: 2
+        x: 5146
+        y: 6973
+        width: 1165
+        height: 2182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05382c72bb73ac49b4c936d820a3736
+      internalID: -5506523859623040947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player3_72_WalkingAnimation_Front_3
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 4669
+        width: 1165
+        height: 2218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835c962274ad7e547a536972f8f43d57
+      internalID: 8100672543793052652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player3_72_WalkingAnimation_Front_4
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 4669
+        width: 1165
+        height: 2218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da90365581f3ef4aa8ecb58537aec1a
+      internalID: -6398750531586922213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player3_72_WalkingAnimation_Front_5
+      rect:
+        serializedVersion: 2
+        x: 5146
+        y: 4669
+        width: 1165
+        height: 2182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88c642fb13b281479fa084b71d01151
+      internalID: -1647726469976306563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player3_72_WalkingAnimation_Front_6
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2365
+        width: 1165
+        height: 2182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258500a4998dce44ebbf70f4df6b6ca8
+      internalID: -3976581099362281641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player3_72_WalkingAnimation_Front_7
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 2365
+        width: 1165
+        height: 2153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfacf217e93847489cfd9fde511ed20
+      internalID: 682598960423211296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player3_72_WalkingAnimation_Front_8
+      rect:
+        serializedVersion: 2
+        x: 5146
+        y: 2365
+        width: 1165
+        height: 2153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff05844c6032c74cb67ff2fef1dfa19
+      internalID: -7483255957620197831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player3_72_WalkingAnimation_Front_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 61
+        width: 1165
+        height: 2153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c615699bf6a2f4b8da025cfe5f6f8b
+      internalID: -4532299355518538894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
