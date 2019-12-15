@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerLose : MonoBehaviour
 {
@@ -25,6 +26,6 @@ public class PlayerLose : MonoBehaviour
     IEnumerator Loss()
     {
         yield return new WaitForSeconds(2);
-        Application.Quit();
+        SceneManager.LoadScene(0);
     }
 }
