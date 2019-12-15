@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerWins : MonoBehaviour
 {
@@ -26,6 +27,6 @@ public class PlayerWins : MonoBehaviour
 	IEnumerator Won()
 	{
 		yield return new WaitForSeconds(2);
-		Application.Quit();
+		SceneManager.LoadScene(0);
 	}
 }
