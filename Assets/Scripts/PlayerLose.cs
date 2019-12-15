@@ -26,7 +26,7 @@ public class PlayerLose : MonoBehaviour
     }
     IEnumerator Loss()
     {
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(5);
         SceneManager.LoadScene(0);
     }
 }

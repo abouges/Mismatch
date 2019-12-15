@@ -18,12 +18,16 @@ public class PlayerControl : MonoBehaviour
     private bool is_walking;
     public int currentKey;
 
+    private bool dialogue_happened;
+
     private bool walking_audio_playing;
+    private DialogueTrigger dialogue_trigger;
 
     private AudioSource player_audio_source;
     private Animator anim;
     void Start()
     {
+        dialogue_trigger = gameObject.GetComponent<DialogueTrigger>();
         instance = this;
         rb2d = gameObject.GetComponent<Rigidbody2D>();
         anim = gameObject.GetComponent<Animator>();
@@ -32,6 +36,11 @@ public class PlayerControl : MonoBehaviour
 
     void Update()
     {
+        if (!dialogue_happened)
+        {
+            dialogue_trigger.TriggerDialogue();
+            dialogue_happened = true;
+        }
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             Application.Quit();

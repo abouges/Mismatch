@@ -47,6 +47,7 @@ public class DialogueManager : MonoBehaviour
     void EndDialogue()
     {
         StopAllCoroutines();
+        dialogue_audio.Stop();
         anim.SetBool("is_open", false);
     }
     IEnumerator TypeSentence (string sentence)
