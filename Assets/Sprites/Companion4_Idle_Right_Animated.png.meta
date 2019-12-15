@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 50ba02c7038f3454aa7ab465a6af4c40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4699046332006072866
+    second: Companion4_Idle_Right_Animated_0
+  - first:
+      213: 2874414552061608327
+    second: Companion4_Idle_Right_Animated_1
+  - first:
+      213: -6174722498422834939
+    second: Companion4_Idle_Right_Animated_2
+  - first:
+      213: 3520107425612152849
+    second: Companion4_Idle_Right_Animated_3
+  - first:
+      213: -4863563229978654390
+    second: Companion4_Idle_Right_Animated_4
+  - first:
+      213: 7004935703680061923
+    second: Companion4_Idle_Right_Animated_5
+  - first:
+      213: 2442218124678242486
+    second: Companion4_Idle_Right_Animated_6
+  - first:
+      213: 7533524177252919982
+    second: Companion4_Idle_Right_Animated_7
+  - first:
+      213: -745428072740243414
+    second: Companion4_Idle_Right_Animated_8
+  - first:
+      213: -630564712944949154
+    second: Companion4_Idle_Right_Animated_9
+  - first:
+      213: 781139758762488682
+    second: Companion4_Idle_Right_Animated_10
+  - first:
+      213: 5771058636158540882
+    second: Companion4_Idle_Right_Animated_11
+  - first:
+      213: 2999775031556744033
+    second: Companion4_Idle_Right_Animated_12
+  - first:
+      213: 3985101755600952095
+    second: Companion4_Idle_Right_Animated_13
+  - first:
+      213: 2200381342717166178
+    second: Companion4_Idle_Right_Animated_14
+  - first:
+      213: 1154469606019350575
+    second: Companion4_Idle_Right_Animated_15
+  - first:
+      213: -3082818965170035682
+    second: Companion4_Idle_Right_Animated_16
+  - first:
+      213: -3822882845007145670
+    second: Companion4_Idle_Right_Animated_17
+  - first:
+      213: -895359283723582954
+    second: Companion4_Idle_Right_Animated_18
+  - first:
+      213: -2626540515040127998
+    second: Companion4_Idle_Right_Animated_19
+  - first:
+      213: -6215683859700238630
+    second: Companion4_Idle_Right_Animated_20
+  - first:
+      213: 6122344156888367949
+    second: Companion4_Idle_Right_Animated_21
+  - first:
+      213: -2691914781851898776
+    second: Companion4_Idle_Right_Animated_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_0
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 9273
+        width: 1035
+        height: 2188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8728e90e3578be442819dc2bd4242cb9
+      internalID: 4699046332006072866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_1
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 9273
+        width: 1040
+        height: 2188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7886457132f460143a0bf65d273b8f41
+      internalID: 2874414552061608327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_2
+      rect:
+        serializedVersion: 2
+        x: 5178
+        y: 9273
+        width: 1035
+        height: 2188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0a9cd7427ddfc4c9e6fbed099ca763
+      internalID: -6174722498422834939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_3
+      rect:
+        serializedVersion: 2
+        x: 7484
+        y: 9273
+        width: 1035
+        height: 2188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26491b4618f47b640b8b29fd581fda9b
+      internalID: 3520107425612152849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_4
+      rect:
+        serializedVersion: 2
+        x: 9785
+        y: 9273
+        width: 1040
+        height: 2188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8021f4e4f5619cc4db90950c34e3090b
+      internalID: -4863563229978654390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_5
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 6967
+        width: 1035
+        height: 2221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dd3a0e2fdcdeb4f8e7225d798c84b3
+      internalID: 7004935703680061923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_6
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 6967
+        width: 1040
+        height: 2221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b5124480e4a0b429be39dbb5fefbe9
+      internalID: 2442218124678242486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_7
+      rect:
+        serializedVersion: 2
+        x: 5178
+        y: 6967
+        width: 1035
+        height: 2221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda0f33ccadf7c2459052040ef384a82
+      internalID: 7533524177252919982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_8
+      rect:
+        serializedVersion: 2
+        x: 7484
+        y: 6967
+        width: 1035
+        height: 2221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34617ca7fc1051741872555c0b142482
+      internalID: -745428072740243414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_9
+      rect:
+        serializedVersion: 2
+        x: 9785
+        y: 6967
+        width: 1040
+        height: 2221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf184ee35b97634385cf86db5bb8231
+      internalID: -630564712944949154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_10
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 4666
+        width: 1035
+        height: 2222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d6ac070fa7d994cad532a3c8d5186d
+      internalID: 781139758762488682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_11
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 4666
+        width: 1040
+        height: 2222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75076fbb613629046913165f762ffbaf
+      internalID: 5771058636158540882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_12
+      rect:
+        serializedVersion: 2
+        x: 5178
+        y: 4666
+        width: 1035
+        height: 2188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccee94aee68bb154396df4e2b600948b
+      internalID: 2999775031556744033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_13
+      rect:
+        serializedVersion: 2
+        x: 7484
+        y: 4666
+        width: 1035
+        height: 2188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6f8e08d2145ce4aa6d5f398fbd3a20
+      internalID: 3985101755600952095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_14
+      rect:
+        serializedVersion: 2
+        x: 9785
+        y: 4666
+        width: 1040
+        height: 2188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ac4aca961f963418fd19313b165349
+      internalID: 2200381342717166178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_15
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2360
+        width: 1035
+        height: 2193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc69187e1318584994d6a11e3771149
+      internalID: 1154469606019350575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_16
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 2360
+        width: 1040
+        height: 2193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f7d11b15ad9e54b9abb281b18f2c25
+      internalID: -3082818965170035682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_17
+      rect:
+        serializedVersion: 2
+        x: 5178
+        y: 2360
+        width: 1035
+        height: 2222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74e5a362ec67e04ca6fc1e28f56d4e5
+      internalID: -3822882845007145670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_18
+      rect:
+        serializedVersion: 2
+        x: 7484
+        y: 2360
+        width: 1035
+        height: 2222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2db930484a62e34eb530837202d68b9
+      internalID: -895359283723582954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_19
+      rect:
+        serializedVersion: 2
+        x: 9785
+        y: 2360
+        width: 1040
+        height: 2222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964f7354ca0f24545a53947d769809f9
+      internalID: -2626540515040127998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_20
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 59
+        width: 1035
+        height: 2222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c10cc099deabd4782b1b7605b9cc91
+      internalID: -6215683859700238630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_21
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 59
+        width: 1040
+        height: 2222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bc4ad2ab2e7fd48861c72cd9addc91
+      internalID: 6122344156888367949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companion4_Idle_Right_Animated_22
+      rect:
+        serializedVersion: 2
+        x: 5178
+        y: 59
+        width: 1035
+        height: 2222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef1a3ced72d5044499aacaf70bd163d
+      internalID: -2691914781851898776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
