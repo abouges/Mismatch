@@ -19,7 +19,7 @@ public class KeyScript : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
-            Debug.Log("Dialogue");
+            
             dialogue_trigger.TriggerDialogue();
         }
     }

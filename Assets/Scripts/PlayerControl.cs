@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerControl : MonoBehaviour
 {
+    public static PlayerControl instance;
     public float move_speed = 3;
     public AudioClip walk_audio;
 
@@ -15,6 +16,7 @@ public class PlayerControl : MonoBehaviour
     private bool up;
     private bool down;
     private bool is_walking;
+    public int currentKey;
 
     private bool walking_audio_playing;
 
@@ -22,6 +24,7 @@ public class PlayerControl : MonoBehaviour
     private Animator anim;
     void Start()
     {
+        instance = this;
         rb2d = gameObject.GetComponent<Rigidbody2D>();
         anim = gameObject.GetComponent<Animator>();
         player_audio_source = gameObject.GetComponent<AudioSource>();
@@ -70,7 +73,7 @@ public class PlayerControl : MonoBehaviour
         }
         if(movement.y < 0)
         {
-            Debug.Log("Walking!");
+            
             right = false;
             left = false;
             up = true;
