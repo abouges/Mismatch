@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: ed5afd8e8c8314720964fd56a0d05a4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7284187643951311933
+    second: Hat_Floating_0
+  - first:
+      213: 1945656688084396348
+    second: Hat_Floating_1
+  - first:
+      213: -8935084748785317317
+    second: Hat_Floating_2
+  - first:
+      213: 7673709568345430603
+    second: Hat_Floating_3
+  - first:
+      213: 5766118840182148480
+    second: Hat_Floating_4
+  - first:
+      213: -1446716688647592196
+    second: Hat_Floating_5
+  - first:
+      213: -7636534863150447674
+    second: Hat_Floating_6
+  - first:
+      213: -870558883216941401
+    second: Hat_Floating_7
+  - first:
+      213: 1612859969458038211
+    second: Hat_Floating_8
+  - first:
+      213: -2663806393988965631
+    second: Hat_Floating_9
+  - first:
+      213: -4195834442697178001
+    second: Hat_Floating_10
+  - first:
+      213: 5548893603918964008
+    second: Hat_Floating_11
+  - first:
+      213: 1027973620360704209
+    second: Hat_Floating_12
+  - first:
+      213: 6071725691032554550
+    second: Hat_Floating_13
+  - first:
+      213: -3912107266084582932
+    second: Hat_Floating_14
+  - first:
+      213: 4952202317865682257
+    second: Hat_Floating_15
+  - first:
+      213: 5309071075910823677
+    second: Hat_Floating_16
+  - first:
+      213: 7713161817690202382
+    second: Hat_Floating_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hat_Floating_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5115
+        width: 2056
+        height: 1610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d79dbef28b20425a8bbd71e28fffe3b
+      internalID: 7284187643951311933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_1
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 5115
+        width: 2056
+        height: 1610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fba4a37dacb4e40971dd451647378c
+      internalID: 1945656688084396348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_2
+      rect:
+        serializedVersion: 2
+        x: 4733
+        y: 5149
+        width: 2056
+        height: 1606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fcc8afb68434656b84aacd299c553f
+      internalID: -8935084748785317317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_3
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 4828
+        width: 968
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2251d475f5174a368971d2e62684c41
+      internalID: 7673709568345430603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_4
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 4828
+        width: 968
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0856db39afc840f9ae4b2a20cf1b329
+      internalID: 5766118840182148480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_5
+      rect:
+        serializedVersion: 2
+        x: 5371
+        y: 4828
+        width: 777
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a4f331f68b5488ab8dfcb533926bee
+      internalID: -1446716688647592196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2843
+        width: 2056
+        height: 1610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b7a980302534b8889c5ec090062d5b
+      internalID: -7636534863150447674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_7
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 2877
+        width: 2056
+        height: 1607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db538dbf601f47a78c13bb9083dd10c
+      internalID: -870558883216941401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_8
+      rect:
+        serializedVersion: 2
+        x: 4733
+        y: 2877
+        width: 2056
+        height: 1607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbde70d5aa4614129840ec94f117b92e
+      internalID: 1612859969458038211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_9
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2523
+        width: 777
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cc3d5f9907e4b44b981a146c714290
+      internalID: -2663806393988965631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_10
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 2523
+        width: 584
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb90b433d909e4defa8670eafbef87a8
+      internalID: -4195834442697178001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_11
+      rect:
+        serializedVersion: 2
+        x: 5469
+        y: 2523
+        width: 584
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e3c4ae7d26f4613b797581c6668f4b
+      internalID: 5548893603918964008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 539
+        width: 2056
+        height: 1609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624847093dd1a40c6b49fd40c4433d25
+      internalID: 1027973620360704209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_13
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 539
+        width: 2056
+        height: 1609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d8ca9e2d1a245c58c743447d0bf068
+      internalID: 6071725691032554550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_14
+      rect:
+        serializedVersion: 2
+        x: 4733
+        y: 539
+        width: 2056
+        height: 1609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66934cd0241e842da95955fa8ef3ab8c
+      internalID: -3912107266084582932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_15
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 221
+        width: 777
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4433caceea484b6886b1a5ad2e7ee6b
+      internalID: 4952202317865682257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_16
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 221
+        width: 772
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7b09d16c9ac4779b6380962e6a5882
+      internalID: 5309071075910823677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hat_Floating_17
+      rect:
+        serializedVersion: 2
+        x: 5371
+        y: 221
+        width: 777
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432f89b248ba148ca899838a37bf3276
+      internalID: 7713161817690202382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

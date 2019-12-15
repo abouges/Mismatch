@@ -27,7 +27,7 @@ public class ItemUI : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        currentPosition = Player.transform.position;
+    
     }
 
     public void ItemOne()

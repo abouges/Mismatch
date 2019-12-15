@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 87c136c08ad7b4d16a18809cd85dc42b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4003847156988651969
+    second: Ring_Spinning_0
+  - first:
+      213: 3133308435915997448
+    second: Ring_Spinning_1
+  - first:
+      213: -5700381340913474510
+    second: Ring_Spinning_2
+  - first:
+      213: -6202221872407859788
+    second: Ring_Spinning_3
+  - first:
+      213: -887303454048800308
+    second: Ring_Spinning_4
+  - first:
+      213: -8206971867180517051
+    second: Ring_Spinning_5
+  - first:
+      213: 3077983902093763431
+    second: Ring_Spinning_6
+  - first:
+      213: -9163810827201402131
+    second: Ring_Spinning_7
+  - first:
+      213: -6578907419743561990
+    second: Ring_Spinning_8
+  - first:
+      213: 4088700378711197536
+    second: Ring_Spinning_9
+  - first:
+      213: 1486179955636208196
+    second: Ring_Spinning_10
+  - first:
+      213: 2865157143155303902
+    second: Ring_Spinning_11
+  - first:
+      213: -4908178526903538068
+    second: Ring_Spinning_12
+  - first:
+      213: -1782401809065781506
+    second: Ring_Spinning_13
+  - first:
+      213: 2455243547395766645
+    second: Ring_Spinning_14
+  - first:
+      213: 8962234997315578413
+    second: Ring_Spinning_15
+  - first:
+      213: 3806695965918110851
+    second: Ring_Spinning_16
+  - first:
+      213: 4015051008566939650
+    second: Ring_Spinning_17
+  - first:
+      213: 7010257984586400305
+    second: Ring_Spinning_18
+  - first:
+      213: -3573930170746083790
+    second: Ring_Spinning_19
+  - first:
+      213: 4684812704126780407
+    second: Ring_Spinning_20
+  - first:
+      213: -5504709490852106631
+    second: Ring_Spinning_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ring_Spinning_0
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 6779
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad57cbe8e571473d9d7ca4e9163817e
+      internalID: 4003847156988651969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_1
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 6779
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec3fe9323e4d44d2b78a5b13d4d3d34
+      internalID: 3133308435915997448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_2
+      rect:
+        serializedVersion: 2
+        x: 4987
+        y: 6779
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125dc4bccfa354f108a3074084daeebc
+      internalID: -5700381340913474510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6587
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc0190f51754d79a702b25974cfd0c
+      internalID: -6202221872407859788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 4798
+        width: 1863
+        height: 1927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b6f43acd26b49ad90cc35460448696
+      internalID: -887303454048800308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_5
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 6587
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa172f7bf4e8414b8668b5dee7e72ac
+      internalID: -8206971867180517051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_6
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 4798
+        width: 1866
+        height: 1927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0977b1295eb46496483af19fc945c771
+      internalID: 3077983902093763431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_7
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 6428
+        width: 296
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0751d550676246fba484ab54778b2b7
+      internalID: -9163810827201402131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_8
+      rect:
+        serializedVersion: 2
+        x: 4733
+        y: 6587
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf1c1b93ee594b5d8746e2e4f76e03c
+      internalID: -6578907419743561990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_9
+      rect:
+        serializedVersion: 2
+        x: 4859
+        y: 6526
+        width: 266
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f500d180fd845978e81a84578474be
+      internalID: 4088700378711197536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_10
+      rect:
+        serializedVersion: 2
+        x: 5020
+        y: 4828
+        width: 1448
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd779c5f619f45f98addfb9ec8ea486
+      internalID: 1486179955636208196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_11
+      rect:
+        serializedVersion: 2
+        x: 4987
+        y: 6395
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbf1d19c34764472a375627f08aca55
+      internalID: 2865157143155303902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_12
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 4285
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ded36a212cc24f5cb854192d9270ae9
+      internalID: -4908178526903538068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_13
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2523
+        width: 1448
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbde2dc0a92942f5a957806fc716c99
+      internalID: -1782401809065781506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_14
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 4285
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b20aad33014b37848ba23712cdd0f
+      internalID: 2455243547395766645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_15
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 2523
+        width: 456
+        height: 1866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207236689351a4d11a786eea9b742341
+      internalID: 8962234997315578413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_16
+      rect:
+        serializedVersion: 2
+        x: 5531
+        y: 2523
+        width: 458
+        height: 1866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f48f0d3925d4f4a93d5301ad1d9870
+      internalID: 3806695965918110851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_17
+      rect:
+        serializedVersion: 2
+        x: 5149
+        y: 3228
+        width: 199
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38811345b2f945cb8dcd67726fb711f
+      internalID: 4015051008566939650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 987
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b88b4ba9ea448ce9c98b97561e64aa
+      internalID: 7010257984586400305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 221
+        width: 1545
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bbb5036ee484575b1d0dc9c07ee10e
+      internalID: -3573930170746083790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_20
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 221
+        width: 1448
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe06891987a154449a542265550daf91
+      internalID: 4684812704126780407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ring_Spinning_21
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 987
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d5218f9b8314fefb158e895922ae30
+      internalID: -5504709490852106631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
