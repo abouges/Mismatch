@@ -32,6 +32,10 @@ public class PlayerControl : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
         PlayerAnimate();
         audioControl();
     }
