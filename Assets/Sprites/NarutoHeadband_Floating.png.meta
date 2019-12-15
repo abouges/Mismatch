@@ -29,33 +29,6 @@ TextureImporter:
   - first:
       213: -8084522889905039265
     second: NarutoHeadband_Floating_8
-  - first:
-      213: -8369638319536243892
-    second: NarutoHeadband_Floating_9
-  - first:
-      213: -8320212213519164926
-    second: NarutoHeadband_Floating_10
-  - first:
-      213: 2554766326219950436
-    second: NarutoHeadband_Floating_11
-  - first:
-      213: 526999786155995138
-    second: NarutoHeadband_Floating_12
-  - first:
-      213: -1900583464311050249
-    second: NarutoHeadband_Floating_13
-  - first:
-      213: -1826675981440019995
-    second: NarutoHeadband_Floating_14
-  - first:
-      213: -4657011931372137105
-    second: NarutoHeadband_Floating_15
-  - first:
-      213: 6044212595770400650
-    second: NarutoHeadband_Floating_16
-  - first:
-      213: -7826020982753203995
-    second: NarutoHeadband_Floating_17
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -144,9 +117,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 221
-        y: 4892
+        y: 4700
         width: 1832
-        height: 1927
+        height: 2119
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,7 +127,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b648c917b4684dbb8666a0775913fed
+      spriteID: a5f1190f22d414941ad7c21b02d0eacb
       internalID: 399040203574435904
       vertices: []
       indices: 
@@ -165,9 +138,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2523
-        y: 4892
+        y: 4700
         width: 1832
-        height: 1927
+        height: 2119
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,7 +148,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b613cff0a933248b7baa680ea4a90b95
+      spriteID: 37350502d9dcf4a36a1b5c41c398de75
       internalID: 5654366376619264219
       vertices: []
       indices: 
@@ -186,9 +159,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 4828
-        y: 4923
+        y: 4700
         width: 1833
-        height: 1930
+        height: 2153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,7 +169,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43eac7a99385b4bb7b4d5e6b605557fb
+      spriteID: a08a634fadbf24aa8b5eb2ae2667b06f
       internalID: -8121778105100716449
       vertices: []
       indices: 
@@ -206,10 +179,10 @@ TextureImporter:
       name: NarutoHeadband_Floating_3
       rect:
         serializedVersion: 2
-        x: 444
-        y: 4700
-        width: 1545
-        height: 168
+        x: 221
+        y: 2395
+        width: 1832
+        height: 2153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,7 +190,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a556296addfc4c79895f0e535ee8428
+      spriteID: 9ee3fdefd7785428f97fc8620d53c006
       internalID: -2398922979498478435
       vertices: []
       indices: 
@@ -227,10 +200,10 @@ TextureImporter:
       name: NarutoHeadband_Floating_4
       rect:
         serializedVersion: 2
-        x: 2749
-        y: 4700
-        width: 1542
-        height: 168
+        x: 2523
+        y: 2395
+        width: 1832
+        height: 2186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,7 +211,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46fbccc24c2f045d58e8f922af8e9245
+      spriteID: 2692994e78a594beca73d64388d4f73f
       internalID: 8328951597776336164
       vertices: []
       indices: 
@@ -248,10 +221,10 @@ TextureImporter:
       name: NarutoHeadband_Floating_5
       rect:
         serializedVersion: 2
-        x: 5213
-        y: 4700
-        width: 1160
-        height: 168
+        x: 4828
+        y: 2395
+        width: 1833
+        height: 2186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,7 +232,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed81c6587e0344f4fb02718aebd7f4ee
+      spriteID: f0d9ac4d4bfac4714abc3fdd9db5efdf
       internalID: 4046271049406935473
       vertices: []
       indices: 
@@ -270,9 +243,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 221
-        y: 2621
+        y: 93
         width: 1832
-        height: 1927
+        height: 2152
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,7 +253,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f59ea684d31ec4cab9df610c2b99955c
+      spriteID: c19e9b1ceee4b44efb044e809c52a152
       internalID: -8988753122085141310
       vertices: []
       indices: 
@@ -291,9 +264,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2523
-        y: 2651
+        y: 93
         width: 1832
-        height: 1930
+        height: 2152
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,7 +274,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb07338bd92cb4ba6a51661911041a85
+      spriteID: 57b356012f21d469cbcadc25e1ffaa1d
       internalID: -7478227953084985290
       vertices: []
       indices: 
@@ -312,9 +285,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 4828
-        y: 2651
+        y: 93
         width: 1833
-        height: 1930
+        height: 2152
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,197 +295,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 906fb4fdc01774d8585e5edca7906e4a
+      spriteID: b4037a626b95f48abba095a4128d3d0f
       internalID: -8084522889905039265
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NarutoHeadband_Floating_9
-      rect:
-        serializedVersion: 2
-        x: 603
-        y: 2395
-        width: 1160
-        height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec9e31fade1444d7ab189f1f67eaba25
-      internalID: -8369638319536243892
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NarutoHeadband_Floating_10
-      rect:
-        serializedVersion: 2
-        x: 3131
-        y: 2395
-        width: 681
-        height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 04c1884a971624b7aad3730fc4a60cf1
-      internalID: -8320212213519164926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NarutoHeadband_Floating_11
-      rect:
-        serializedVersion: 2
-        x: 5435
-        y: 2395
-        width: 682
-        height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5b04cdc79b8148a2a56b2d964f69499
-      internalID: 2554766326219950436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NarutoHeadband_Floating_12
-      rect:
-        serializedVersion: 2
-        x: 221
-        y: 316
-        width: 1832
-        height: 1929
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 39a24e03c8b7148a28ac0da24a76f35c
-      internalID: 526999786155995138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NarutoHeadband_Floating_13
-      rect:
-        serializedVersion: 2
-        x: 2523
-        y: 316
-        width: 1832
-        height: 1929
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92032367ee0d64bbb8aeef05acf45a41
-      internalID: -1900583464311050249
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NarutoHeadband_Floating_14
-      rect:
-        serializedVersion: 2
-        x: 4828
-        y: 316
-        width: 1833
-        height: 1929
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8b60a2e2be4b4421983ff86ca17d9c4
-      internalID: -1826675981440019995
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NarutoHeadband_Floating_15
-      rect:
-        serializedVersion: 2
-        x: 603
-        y: 93
-        width: 1160
-        height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce5f3fea3f4014e19aded64ca5be4df6
-      internalID: -4657011931372137105
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NarutoHeadband_Floating_16
-      rect:
-        serializedVersion: 2
-        x: 2908
-        y: 93
-        width: 1161
-        height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f13e7a0b3e6c43008539c0784a80f65
-      internalID: 6044212595770400650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NarutoHeadband_Floating_17
-      rect:
-        serializedVersion: 2
-        x: 5213
-        y: 93
-        width: 1160
-        height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c2ba86c362bf43eda71242633deaec0
-      internalID: -7826020982753203995
       vertices: []
       indices: 
       edges: []
