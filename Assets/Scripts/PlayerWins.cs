@@ -5,6 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class PlayerWins : MonoBehaviour
 {
+    public AudioSource backgroundAudio;
+
 	public static PlayerWins instance;
 
 	public GameObject WinScreen;
@@ -21,11 +23,12 @@ public class PlayerWins : MonoBehaviour
 	public void Win()
 	{
         Debug.Log("Won");
+        backgroundAudio.Stop();
 		WinScreen.SetActive(true);
 		StartCoroutine(Won());
 	}
 	IEnumerator Won()
-	{
+	{   
 		yield return new WaitForSeconds(2);
 		SceneManager.LoadScene(0);
 	}

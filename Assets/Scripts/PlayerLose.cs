@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class PlayerLose : MonoBehaviour
 {
     public static PlayerLose instance;
-
+    public AudioSource backgroundAudio;
     public GameObject LoseScreen;
     void Start()
     {
@@ -20,6 +20,7 @@ public class PlayerLose : MonoBehaviour
     }
     public void Lose()
     {
+        backgroundAudio.Stop();
         LoseScreen.SetActive(true);
         StartCoroutine(Loss());
     }
