@@ -5,8 +5,12 @@ using UnityEngine.UI;
 
 public class DialogueManager : MonoBehaviour
 {
+    
     public Text name_text;
     public Text dialogue_text;
+
+    public Animator anim;
+
     private Queue<string> sentences;
     void Start()
     {
@@ -14,6 +18,8 @@ public class DialogueManager : MonoBehaviour
     }
     public void StartDialogue(Dialogue dialogue)
     {
+        anim.SetBool("is_open", true);
+
         name_text.text = dialogue.character_name;
 
         sentences.Clear();
@@ -33,11 +39,21 @@ public class DialogueManager : MonoBehaviour
             return;
         }
         string sentence = sentences.Dequeue();
-        dialogue_text.text = sentence;
+        StopAllCoroutines();
+        StartCoroutine(TypeSentence(sentence));
     }
     void EndDialogue()
     {
-        Debug.Log("End of COnversation");
+        anim.SetBool("is_open", false);
+    }
+    IEnumerator TypeSentence (string sentence)
+    {
+        dialogue_text.text = "";
+        foreach(char letter in sentence.ToCharArray())
+        {
+            dialogue_text.text += letter;
+            yield return null;
+        }
     }
 
 }
