@@ -12,7 +12,7 @@ public class EnemyPatrol : MonoBehaviour
 
     void Start()
     {
-        up = true;
+        //up = true;
     }
 
     void Update()
