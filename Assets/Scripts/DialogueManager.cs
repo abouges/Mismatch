@@ -10,6 +10,7 @@ public class DialogueManager : MonoBehaviour
     public Text dialogue_text;
 
     public Animator anim;
+    public AudioSource dialogue_audio;
 
     private Queue<string> sentences;
     void Start()
@@ -33,6 +34,7 @@ public class DialogueManager : MonoBehaviour
     }
     public void DisplayNextSentence()
     {
+        
         if(sentences.Count == 0)
         {
             EndDialogue();
@@ -48,12 +50,14 @@ public class DialogueManager : MonoBehaviour
     }
     IEnumerator TypeSentence (string sentence)
     {
+        dialogue_audio.Play();
         dialogue_text.text = "";
         foreach(char letter in sentence.ToCharArray())
         {
             dialogue_text.text += letter;
             yield return null;
         }
+        dialogue_audio.Stop();
     }
 
 }

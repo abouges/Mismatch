@@ -51,6 +51,10 @@ public class EnemyPatrol : MonoBehaviour
             left = false;
             right = true;
         }
+        if(collider.tag == "Player")
+        {
+            PlayerLose.instance.Lose();
+        }
     }
 
     public void patrol()
