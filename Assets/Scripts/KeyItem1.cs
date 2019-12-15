@@ -8,6 +8,7 @@ public class KeyItem1 : MonoBehaviour
 	{
         if(collider.tag == "Player")
 		{
+            ItemUI.instance.ItemOne();
 			GameVariables.keyType = 1;
 			Destroy(gameObject);
 		}
