@@ -11,14 +11,15 @@ public class GuardWall : MonoBehaviour
 	}
 	// Update is called once per frame
 
-	void OnTriggerEnter2D(Collider2D collider)
+	void OnCollisionEnter2D(Collision2D col)
 	{
-		if (collider.tag == "Player" && GameVariables.keyType != 1)
+		if (col.gameObject.tag == "Player" && GameVariables.keyType != 1)
 		{
 			Debug.Log("Dialogue");
 			dialogue_trigger.TriggerDialogue();
 		}
 	}
+
 
 	void Update()
 	{
