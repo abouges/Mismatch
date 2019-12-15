@@ -3,7 +3,15 @@ guid: f6cf3082206f847cfbfb5c300c1147eb
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Item1: {fileID: 3364519256299402095, guid: 5df426f3b21424357b04cf339c314cb7, type: 3}
+  - Item2: {fileID: 5296080705379189671, guid: 40d38997ef4a241e691acada7932441e, type: 3}
+  - Item3: {fileID: 2606406819385311759, guid: 03f690cf5b91b4bbca64b69892460217, type: 3}
+  - Key1: {fileID: 3364519256299402087, guid: 5df426f3b21424357b04cf339c314cb7, type: 3}
+  - Key2: {fileID: 5296080705379189679, guid: 40d38997ef4a241e691acada7932441e, type: 3}
+  - Key3: {fileID: 2606406819385311863, guid: 03f690cf5b91b4bbca64b69892460217, type: 3}
+  - Player: {instanceID: 0}
+  - SpawnPoint: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

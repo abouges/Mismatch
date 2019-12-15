@@ -9,6 +9,9 @@ TagManager:
   - Left
   - Right
   - Goal
+  - KeyThree
+  - KeyOne
+  - KeyTwo
   layers:
   - Default
   - TransparentFX

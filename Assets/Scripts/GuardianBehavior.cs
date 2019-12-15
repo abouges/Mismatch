@@ -22,7 +22,8 @@ public class GuardianBehavior : MonoBehaviour
 			Destroy(gameObject);
 			Debug.Log("Let through");
             //SceneManager.LoadScene(1);
-		}
+            ItemUI.instance.UseItem();
+        }
 
         if (collider.tag == "Player" && GameVariables.keyType != 1)
 		{

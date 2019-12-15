@@ -26,7 +26,7 @@ public class GuardWall : MonoBehaviour
 		if (GameVariables.keyType == 1)
 		{
 			GetComponent<BoxCollider2D>().isTrigger = true;
-		}
+        }
 	}
 
  }
